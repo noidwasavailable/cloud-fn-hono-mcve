@@ -1,4 +1,5 @@
 ```bash
+nvm use 18
 yarn
 yarn run serve
 ```
